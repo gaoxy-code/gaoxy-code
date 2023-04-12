@@ -1,4 +1,4 @@
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/gaoxy-code/gaoxy-code/">
     <img src="https://komarev.com/ghpvc/?username=gaoxy-code" alt="gaoxy-code" />
   </a>
@@ -10,7 +10,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-gaoxy-code-stats.vercel.app/api/top-langs/?username=gaoxy-code&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=merko" />
   <img alt="github stats" height="150px" src="https://github-readme-gaoxy-code-stats.vercel.app/api?username=gaoxy-code&count_private=true&show_icons=true&show_icons=true&theme=merko" />
-</p>
+</p> -->
 
 ### Languages and Tools:
 
