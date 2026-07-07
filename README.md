@@ -1,11 +1,15 @@
 Hi there 👋
 
-I'm an front-end engineer.
+I'm a front-end engineer based in Japan, mainly working with **TypeScript / React / Next.js**.
 
-## **My skills**  
-![My Skills](https://skillicons.dev/icons?i=ts,react,redux,materialui,nextjs,nodejs,express)  
-![My Skills](https://skillicons.dev/icons?i=mongodb,redis,vscode,git,github,azure)
+## Status
 
-## **Studying**  
-![My Skills](https://skillicons.dev/icons?i=vue,dart,flutter)  
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaoxy-code)
+
+## Skills
+
+![Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,tailwind,nodejs,express,mongodb,git,github,docker,notion)
+
+## Learning
+
+![Learning](https://skillicons.dev/icons?i=svelte,swift,kotlin,cloudflare,githubactions)
